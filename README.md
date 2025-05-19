@@ -10,13 +10,7 @@ A simple Java-based music player using `javax.sound.sampled.*`. Play, stop, and 
 
 ---
 
-## 🎬 Demo
 
-> Here's how the CLI interface looks when you run it:
-
-![Music Player CLI Demo](https://your-demo-link.gif) <!-- Replace this with your own GIF or screen recording -->
-
----
 
 ## 📁 Features
 
